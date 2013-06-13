@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 public class ListenMenuAbout implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		JOptionPane.showMessageDialog(null, "ArchTEx : Version 1.0.5"+"\n Jonathan E. Bard, William KM. Lai");
+		JOptionPane.showMessageDialog(null, "ArchTEx : Version 1.0.8"+"\n Jonathan E. Bard, William KM. Lai");
 		
 	}
 }
