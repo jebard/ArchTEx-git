@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repo2/!svn/ver/4132/coreseq/ArchTEx/src/data/param
+END
+CorrParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo2/!svn/ver/3920/coreseq/ArchTEx/src/data/param/CorrParameter.java
+END
+GenParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo2/!svn/ver/4155/coreseq/ArchTEx/src/data/param/GenParameter.java
+END
+BamFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo2/!svn/ver/3920/coreseq/ArchTEx/src/data/param/BamFilter.java
+END
+ExParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo2/!svn/ver/4576/coreseq/ArchTEx/src/data/param/ExParameter.java
+END
+BaiFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo2/!svn/ver/3920/coreseq/ArchTEx/src/data/param/BaiFilter.java
+END

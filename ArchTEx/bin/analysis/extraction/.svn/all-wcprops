@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo2/!svn/ver/4111/coreseq/ArchTEx/src/analysis/extraction
+END
+SiteLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo2/!svn/ver/4577/coreseq/ArchTEx/src/analysis/extraction/SiteLoad.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo2/!svn/ver/4052/coreseq/ArchTEx/src/analysis/extraction/Transform.java
+END
+StatGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo2/!svn/ver/4017/coreseq/ArchTEx/src/analysis/extraction/StatGen.java
+END
+GenomeExtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo2/!svn/ver/4039/coreseq/ArchTEx/src/analysis/extraction/GenomeExtract.java
+END
+ExtractLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo2/!svn/ver/4111/coreseq/ArchTEx/src/analysis/extraction/ExtractLoad.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo2/!svn/ver/3920/coreseq/ArchTEx/src/analysis/extraction/Node.java
+END
+Extract.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo2/!svn/ver/4052/coreseq/ArchTEx/src/analysis/extraction/Extract.java
+END
+Output.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo2/!svn/ver/4039/coreseq/ArchTEx/src/analysis/extraction/Output.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo2/!svn/ver/3979/coreseq/ArchTEx/src/analysis/extraction/parser
+END
+DefaultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo2/!svn/ver/3979/coreseq/ArchTEx/src/analysis/extraction/parser/DefaultParser.java
+END
+RefGeneParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo2/!svn/ver/3979/coreseq/ArchTEx/src/analysis/extraction/parser/RefGeneParser.java
+END
+GFFParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo2/!svn/ver/3979/coreseq/ArchTEx/src/analysis/extraction/parser/GFFParser.java
+END
+CoordParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo2/!svn/ver/3979/coreseq/ArchTEx/src/analysis/extraction/parser/CoordParser.java
+END

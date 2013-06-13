@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repo2/!svn/ver/4132/coreseq/ArchTEx/src/analysis/gencorr
+END
+GenCorrNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo2/!svn/ver/4132/coreseq/ArchTEx/src/analysis/gencorr/GenCorrNode.java
+END
+GenTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo2/!svn/ver/4135/coreseq/ArchTEx/src/analysis/gencorr/GenTransform.java
+END
+GenCorrExtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo2/!svn/ver/4135/coreseq/ArchTEx/src/analysis/gencorr/GenCorrExtract.java
+END
+GenCorrLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo2/!svn/ver/4135/coreseq/ArchTEx/src/analysis/gencorr/GenCorrLoad.java
+END
