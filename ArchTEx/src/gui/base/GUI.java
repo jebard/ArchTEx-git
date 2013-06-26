@@ -27,7 +27,7 @@ import data.param.ExParameter;
 import data.param.GenParameter;
 
 public class GUI implements ActionListener {
-	int corrCount = 0;
+	int corrCount = 0; // corrCount
 	private JFrame frame = new JFrame("ArchTEx");
 	private JMenuBar bar = new JMenuBar();
 	private JMenu fileMenu = new JMenu("File"); // File Entry on Menu bar
