@@ -3,11 +3,11 @@ package analysis.extraction.parser;
 public class BED3Parser implements CoordParser{
 	@Override
 	public String getDirection(String[] temp) {
-		if(temp[6].isEmpty() || !temp[6].equals("+") || !temp[6].equals("-") || !temp[6].equals(".")){
+		if(temp[5].isEmpty() || !temp[5].equals("+") || !temp[5].equals("-") || !temp[5].equals(".")){
 			return "+";
 		}
 		else{
-			return temp[6];
+			return temp[5];
 		}
 	}
 
